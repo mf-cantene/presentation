@@ -1,32 +1,28 @@
 [INCLUDE=presentation]
+
 Title         : Tunnel ventilation design
-Sub Title     : Comparative analyses of two different tunnel configurations performed through risk assessment
+Sub Title     : Quantitative methods for comparative analyses
+
 Author        : Michele Fronterrè
 Affiliation   : Cantene
 Email         : m.fronterre@cantene.it
 Reveal Theme  : moon
-Beamer Theme  : singapore
+Beamer Theme  : Singapore
 
 [TITLE]
 
-# Content
 
-[TOC]
+# Field
 
-# Madoko Presentation
-
-Using [Madoko] it is easy to create beautiful presentations.
-
-* [Html][slide]:
-  Uses the `Reveal.js` library by [Hakim El Hattab](http://hakim.se).\
-  This slide demo in Madoko is an adaption of his online demo.
-* [Pdf][slide-pdf]:
-  Uses the `Beamer` package for LaTeX
-* [Source][slide-mdk]:
-  Click to see the source of this presentation.
+|---------------|--------------------------------------------------------------------|
+| **Activity**  | **Description**                                                    |
+|:-------------:|:-------------------------------------------------------------------|
+|Pre design     | Alternative solution are examined at feasibility or design  stage. |
+| Design |
+|Infrastructure management| An update in the normative context obliges to introduce modifications in existing operas. Impact is measured through quantitative methods. 
 
 
-[madoko]: http://madoko.codeplex.com
+
 
 ## Reveal.js
 
