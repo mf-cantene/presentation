@@ -1,0 +1,104 @@
+[INCLUDE=presentation]
+Sub Title   : The sub-title
+Sub Title   : The sub-title
+Sub Title   : The sub-title
+
+Title         : Tunnel ventilation design
+Sub Title     : Quantitative methods for comparative analyses
+
+Author        : Michele Fronterrè
+Affiliation   : Cantene
+Email         : m.fronterre@cantene.it
+Reveal Theme  : night
+Beamer Theme  : Classic
+
+[TITLE]
+
+## When this approach can be used
+
+* **At Pre-design and Design stages**:
+   Alternative solutions are examined at feasibility or design stage.
+   Consequences weight is evaluated comparing different configurations under the same hypothesis.
+   
+* **During the lifecycle of the Infrastructure (Managament stage)**:
+   When an update normative context obliges modifications in existing operas, impact could be measured through quantitative methods.
+
+## Fire Engineering as intersections of other discplines   
+* Architectural
+* Civil Works
+* Mechanical Ventilation
+
+## Methodology   
+
+* Through a multiscale approach combining 1D and CFD + evacuation analyses it is possible to evaluate the interaction between people and combustion products 
+
+
+## CASE 1   
+* two way tunnel
+* transversal ventilation logic
+* evacuation system is provided of ventilated refuges
+
+![Slide5_Case1]
+
+[Slide5_Case1]: images/Slide5_Case1.png "Slide5_Case1" { width:auto; max-width:90% }
+
+
+## CASE 1 - Fire Scenario Hypothesis   
+
+![Slide6_2_FireHRR]
+
+[Slide6_2_FireHRR]: images/Slide6_2_FireHRR.png "Slide6_2_FireHRR" { width:auto; max-width:90% }
+
+## CASE 1 - Evacuation results    
+
+![Slide7_resultsCase1]
+
+[Slide7_resultsCase1]: images/Slide7_resultsCase1.png "Slide7_resultsCase1" { width:auto; max-width:90% }
+
+## CASE 1 - Smoke control results
+
+![Slide9_resultsCase1]
+
+[Slide9_resultsCase1]: images/Slide9_resultsCase1.png "Slide9_resultsCase1" { width:auto; max-width:90% }
+
+## CASE 1 - Comparative FED and evacuation analysis
+
+![Slide10_resultsCase1]
+
+[Slide10_resultsCase1]: images/Slide10_resultsCase1.png "Slide10_resultsCase1" { width:auto; max-width:90% }
+
+## CASE 2   
+Existing opera -  Impact of a noise barrier installation between two existing tunnels
+
+* a) current configuration (tunnels are fluid dynamically independent)
+* b) a noise barrier connect the tunnels and makes them a unique longer tunnel
+
+![Case2_1]
+
+[Case2_1]: images/Case2_1.png "Case2_1" { width:auto; max-width:90% }
+
+## CASE 2 - Tunnel characteristics   
+
+* one-way tunnel 
+* no ventilation
+* no bypass and no refuges
+
+## CASE 2 - Fire Scenario   
+
+Fire: positioned at the lowest point of the tunnel (worst case) 
+
+![case 2_Fire location]
+
+[case 2_Fire location]: images/case-2_Fire-location.png "case 2_Fire location" { width:auto; max-width:90% }
+
+##CASE 2 - HRR curve
+
+2 HRR considered (30 and 100 MW)
+
+
+
+## Thanks for looking :-)
+
+[slide]: http://research.microsoft.com/en-us/um/people/daan/madoko/samples/slidedemo/out/slidedemo.html
+[slide-mdk]: https://www.madoko.net/editor.html?#url=http://research.microsoft.com/en-us/um/people/daan/madoko/samples/slidedemo/slidedemo.mdk&options={"delayedUpdate":"true"}
+[slide-pdf]: http://research.microsoft.com/en-us/um/people/daan/madoko/samples/slidedemo/out/slidedemo.pdf
