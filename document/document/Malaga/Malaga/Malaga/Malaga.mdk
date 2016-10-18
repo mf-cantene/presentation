@@ -1,0 +1,50 @@
+[INCLUDE=presentation]
+Sub Title   : The sub-title
+Sub Title   : The sub-title
+Sub Title   : The sub-title
+
+Title         : Tunnel ventilation design
+Sub Title     : Quantitative methods for comparative analyses
+
+Author        : Michele Fronterrè
+Affiliation   : Cantene
+Email         : m.fronterre@cantene.it
+Reveal Theme  : night
+Beamer Theme  : Classic
+
+[TITLE]
+
+
+# When this approach could be used:{ text-align=justify }
+
+**At Pre-design and Design stages**
+
+* Alternative solutions are examined at feasibility or design stage.
+Consequences weight is evaluated comparing different configurations under the same hypothesis.
+
+**During the lifecycle of the Infrastructure (Managament stage)**
+
+* Alternative solutions are examined at feasibility or design stage.
+Consequences weight is evaluated comparing different configurations under the same hypothesis.
+
+
+
+
+## Fire Engineering as intersections of other discplines (Architectural, Civil Works, MEP)   
+![slide3_Fire Engineering interdiscipline]
+[slide3_Fire Engineering interdiscipline]: images/slide3_Fire-Engineering-interdiscipline.png "slide3_Fire Engineering interdiscipline" { width:auto; max-width:90% }
+
+## Multiscale approach   
+![Slide4_1_Multiscale approach]
+[Slide4_1_Multiscale approach]: images/Slide4_1_Multiscale-approach.png "Slide4_1_Multiscale approach" { width:auto; max-width:90% }
+
+## FDS + EVAC   
+![Slide4_2_FDS-EVAC]
+[Slide4_2_FDS-EVAC]: images/Slide4_2_FDS-EVAC.png "Slide4_2_FDS-EVAC" { width:auto; max-width:90% }
+
+
+## Thanks for looking :-)
+
+[slide]: http://research.microsoft.com/en-us/um/people/daan/madoko/samples/slidedemo/out/slidedemo.html
+[slide-mdk]: https://www.madoko.net/editor.html?#url=http://research.microsoft.com/en-us/um/people/daan/madoko/samples/slidedemo/slidedemo.mdk&options={"delayedUpdate":"true"}
+[slide-pdf]: http://research.microsoft.com/en-us/um/people/daan/madoko/samples/slidedemo/out/slidedemo.pdf
