@@ -1,0 +1,32 @@
+[INCLUDE=presentation]
+
+Title         : Tunnel ventilation design
+Sub Title     : Quantitative methods for comparative analyses
+
+Author        : Michele Fronterrè
+Affiliation   : Cantene
+Email         : m.fronterre@cantene.it
+Reveal Theme  : night
+Beamer Theme  : Classic
+
+[TITLE]
+
+
+# Field in which this approach could be used
+
+![slide2_Fieldofinterest]
+[slide2_Fieldofinterest]: images/slide2_Fieldofinterest.png "slide2_Fieldofinterest" { width:auto; max-width:90% }
+[#transitions]
+
+## Fire Engineering as intersections of other discplines (Architectural, Civil Works, MEP)   
+
+![slide3_Fire Engineering interdiscipline]
+[slide3_Fire Engineering interdiscipline]: images/slide3_Fire-Engineering-interdiscipline.png "slide3_Fire Engineering interdiscipline" { width:auto; max-width:90% }
+[#transitions]
+
+
+## Thanks for looking :-)
+
+[slide]: http://research.microsoft.com/en-us/um/people/daan/madoko/samples/slidedemo/out/slidedemo.html
+[slide-mdk]: https://www.madoko.net/editor.html?#url=http://research.microsoft.com/en-us/um/people/daan/madoko/samples/slidedemo/slidedemo.mdk&options={"delayedUpdate":"true"}
+[slide-pdf]: http://research.microsoft.com/en-us/um/people/daan/madoko/samples/slidedemo/out/slidedemo.pdf
